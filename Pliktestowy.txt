@@ -1,1 +1,2 @@
 Mój pierwszy plik
+Drugi wpis w moim pierwszym pliku
